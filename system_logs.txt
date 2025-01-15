@@ -1,0 +1,19 @@
+Timestamp,Resource,Event,Severity,Status,Action,User
+2025-01-04 15:32:48,CPU,CPU usage exceeded: 59.3%,High,Alert,Monitoring,system
+2025-01-04 15:32:48,Memory,Memory usage exceeded: 74.6%,High,Alert,Monitoring,system
+2025-01-04 15:32:49,Memory,Memory usage exceeded: 74.5%,High,Alert,Monitoring,system
+2025-01-04 15:32:50,Memory,Memory usage exceeded: 73.9%,High,Alert,Monitoring,system
+2025-01-04 15:32:51,Memory,Memory usage exceeded: 73.9%,High,Alert,Monitoring,system
+2025-01-04 15:32:52,Memory,Memory usage exceeded: 73.8%,High,Alert,Monitoring,system
+2025-01-04 15:32:53,Memory,Memory usage exceeded: 74.1%,High,Alert,Monitoring,system
+2025-01-04 15:32:55,Memory,Memory usage exceeded: 74.2%,High,Alert,Monitoring,system
+2025-01-04 15:32:56,Memory,Memory usage exceeded: 74.2%,High,Alert,Monitoring,system
+2025-01-04 15:32:57,Memory,Memory usage exceeded: 74.1%,High,Alert,Monitoring,system
+2025-01-15 13:55:11,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
+2025-01-15 13:55:12,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
+2025-01-15 13:55:14,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
+2025-01-15 13:55:15,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
+2025-01-15 13:55:17,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
+2025-01-15 13:55:18,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
+2025-01-15 13:55:20,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
+2025-01-15 13:55:21,Disk (C:\),Disk (C:\) usage exceeded: 94.2%,High,Alert,Monitoring,system
